@@ -7,7 +7,7 @@
 | Objectif principal du projet |  |
 | Utilisateurs cibles (internes, clients, partenaires) |  |
 | Infrastructure existante ? (Oui / Non) |  |
-| Si oui, hébergée où ? (On-premise, AWS, autre cloud) |  |
+| Si oui, hébergée où ? (On-premise, AWS, Scaleway , OVH , Azure) |  |
 
 ---
 
