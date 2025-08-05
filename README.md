@@ -9,8 +9,6 @@
 | Infrastructure existante ? (Oui / Non) |  |
 | Si oui, hébergée où ? (On-premise, AWS, Scaleway , OVH , Azure) |  |
 
----
-
 ##  Architecture et Composants Techniques
 | Question | Réponse |
 |---------|---------|
@@ -21,8 +19,6 @@
 | Besoin de tolérance aux pannes ? | ☐ Oui ☐ Non |
 | Exigences réseau spécifiques (VPC, VPN, Direct Connect) |  |
 
----
-
 ## Performance et Scalabilité
 | Question | Réponse |
 |---------|---------|
@@ -31,16 +27,12 @@
 | Taille estimée des données à stocker |  |
 | Besoin de scalabilité automatique ? | ☐ Oui ☐ Non |
 
----
-
 ## Sécurité et Conformité
 | Question | Réponse |
 |---------|---------|
 | Exigences réglementaires (RGPD, ISO, HIPAA, etc.) |  |
 | Services de sécurité souhaités (IAM, KMS, etc.) |  |
 | Besoin de journalisation et surveillance ? | ☐ CloudTrail ☐ GuardDuty ☐ Autres |
-
----
 
 ## Déploiement et Maintenance
 | Question | Réponse |
@@ -50,8 +42,6 @@
 | Responsable de la maintenance post-déploiement | ☐ Client ☐ Prestataire ☐ AWS Managed Services |
 | Besoin de monitoring et alertes ? | ☐ CloudWatch ☐ Prometheus ☐ Autres |
 
----
-
 ## Budget et Prévision des Coûts
 | Question | Réponse |
 |---------|---------|
@@ -59,15 +49,11 @@
 | Estimation souhaitée | ☐ Par service ☐ Globale |
 | Besoin d’optimisation des coûts ? | ☐ Oui ☐ Non |
 
----
-
 ## Planning et Délais
 | Question | Réponse |
 |---------|---------|
 | Date cible de lancement |  |
 | Jalons ou phases intermédiaires |  |
-
----
 
 ## Autres Besoins Spécifiques
 | Question | Réponse |
@@ -76,3 +62,14 @@
 | Migration de données prévue ? | ☐ Oui ☐ Non |
 | Besoin de reprise sur incident ? | ☐ Oui ☐ Non |
 | Besoin de formation ou documentation ? | ☐ Oui ☐ Non 
+
+## Accompagnement Technique et Formation
+| Question | Réponse |
+|---------|---------|
+| Souhaitez-vous bénéficier d’une formation AWS ? | ☐ Oui ☐ Non |
+| Niveau de formation souhaité | ☐ Débutant ☐ Intermédiaire ☐ Avancé |
+| Thèmes à couvrir | ☐ Services AWS ☐ Sécurité ☐ DevOps ☐ Architecture ☐ Autres : ________ |
+| Format préféré | ☐ Présentiel ☐ Distanciel ☐ Vidéos ☐ Documentation écrite |
+| Nombre de personnes à former |  |
+| Durée estimée de la formation |  |
+| Besoin de certification AWS ? | ☐ Oui ☐ Non |
