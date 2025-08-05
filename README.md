@@ -1,6 +1,6 @@
 # 🧾 Grille d’Entretien – Projet d’Architecture AWS
 
-## 🧠 Informations Générales
+##  Informations Générales
 | Question | Réponse |
 |---------|---------|
 | Nom du projet |  |
@@ -11,7 +11,7 @@
 
 ---
 
-## 🏗️ Architecture et Composants Techniques
+##  Architecture et Composants Techniques
 | Question | Réponse |
 |---------|---------|
 | Technologies utilisées (langages, frameworks, bases de données) |  |
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Performance et Scalabilité
+## Performance et Scalabilité
 | Question | Réponse |
 |---------|---------|
 | Volume estimé de trafic (utilisateurs, requêtes/sec) |  |
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔐 Sécurité et Conformité
+## Sécurité et Conformité
 | Question | Réponse |
 |---------|---------|
 | Exigences réglementaires (RGPD, ISO, HIPAA, etc.) |  |
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔄 Déploiement et Maintenance
+## Déploiement et Maintenance
 | Question | Réponse |
 |---------|---------|
 | Besoin d’une CI/CD automatisée ? | ☐ Oui ☐ Non |
@@ -52,7 +52,7 @@
 
 ---
 
-## 💰 Budget et Prévision des Coûts
+## Budget et Prévision des Coûts
 | Question | Réponse |
 |---------|---------|
 | Budget mensuel ou annuel prévu |  |
@@ -61,7 +61,7 @@
 
 ---
 
-## 📅 Planning et Délais
+## Planning et Délais
 | Question | Réponse |
 |---------|---------|
 | Date cible de lancement |  |
@@ -69,7 +69,7 @@
 
 ---
 
-## 🧩 Autres Besoins Spécifiques
+## Autres Besoins Spécifiques
 | Question | Réponse |
 |---------|---------|
 | Intégration avec services tiers (Salesforce, SAP, etc.) |  |
