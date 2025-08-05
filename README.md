@@ -34,6 +34,17 @@
 | Services de sécurité souhaités (IAM, KMS, etc.) |  |
 | Besoin de journalisation et surveillance ? | ☐ CloudTrail ☐ GuardDuty ☐ Autres |
 
+
+##  Plan de Reprise d’Activité (PRA) / Sauvegarde & Restauration
+| Question | Réponse |
+|---------|---------|
+| Souhaitez-vous mettre en place un Plan de Reprise d’Activité (PRA) ? | ☐ Oui ☐ Non |
+| Objectif de reprise (RTO - Recovery Time Objective) | ☐ <1h ☐ <4h ☐ <24h ☐ Autre : ________ |
+| Objectif de perte de données (RPO - Recovery Point Objective) | ☐ Aucun ☐ <1h ☐ <24h ☐ Autre : ________ |
+| Données à sauvegarder | ☐ Bases de données ☐ Fichiers ☐ Machines virtuelles ☐ Autres : ________ |
+| Fréquence de sauvegarde souhaitée | ☐ Quotidienne ☐ Hebdomadaire ☐ Mensuelle ☐ Continue |
+| Méthode de restauration préférée | ☐ Manuelle ☐ Automatisée ☐ Autre : ________ |
+| Besoin de tests réguliers du PRA ? | ☐ Oui ☐ Non |
 ## Déploiement et Maintenance
 | Question | Réponse |
 |---------|---------|
