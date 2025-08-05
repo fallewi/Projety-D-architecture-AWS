@@ -1,4 +1,4 @@
-# 🧾 Projet d’Architecture AWS
+# Projet d’Architecture AWS
 
 ##  Informations Générales
 | Question | Réponse |
